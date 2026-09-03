@@ -1,0 +1,17 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "it is build in node.js module which allows developer to create web serveer and web clint  without installing any external package.\r one of the most important module in node,js , originally desugned for building scalable network application and web server",
+  "main": "prg1.js",
+  "scripts": {
+    "start": "node prg3.js",
+    "dev": "nodemon prg5.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
